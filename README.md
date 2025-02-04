@@ -1,1 +1,1 @@
-# Responsible-Artificial-Intelligence-Ethical-Legal-Social-and-Economic-Aspects
+Responsible Artificial Intelligence (AI) refers to the development and deployment of AI technologies in a manner that aligns with ethical principles, legal standards, social values, and economic considerations. It emphasizes the need to ensure that AI systems benefit society while minimizing potential harms. The responsible use of AI involves various interdisciplinary concerns, including ethical, legal, social, and economic aspects.
